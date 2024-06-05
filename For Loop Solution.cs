@@ -1,7 +1,3 @@
-// 9.9.1 For Loop Practice
-// Source Test below
-// https://education.launchcode.org/intro-to-programming-csharp/chapters/loops/exercises.html
-
 using System;
 
 public class ForLoopSolution
